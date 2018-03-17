@@ -1,0 +1,19 @@
+{
+  "name": "Orthoceras",
+  "version": "1.0.0",
+  "description": "Find available GitHub usernames using a simple word list.",
+  "main": "orth.js",
+  "author": {
+    "url": "https://github.com/bluegill/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluegill/orthoceras.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bluebird": "^3.5.1",
+    "chalk": "^2.3.2"
+  }
+}
